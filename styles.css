@@ -1,0 +1,76 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f3f3f3;
+    color: #333;
+}
+
+header.hero-section {
+    background-color: #7a42f4;
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+    position: relative;
+}
+
+header.hero-section .logo {
+    max-width: 150px;
+    margin-bottom: 20px;
+}
+
+header.hero-section h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 3em;
+}
+
+header.hero-section p {
+    font-size: 1.2em;
+}
+
+.hero-buttons {
+    margin-top: 20px;
+}
+
+.hero-buttons .button {
+    background-color: #5927d9;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.hero-buttons .button:hover {
+    background-color: #451da0;
+}
+
+section {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.services-section {
+    background-color: #e6e0ff;
+}
+
+.service {
+    margin: 20px 0;
+}
+
+.about-section {
+    background-color: #d4c5f9;
+}
+
+.contact-section {
+    background-color: #f1edfc;
+}
+
+a {
+    color: #7a42f4;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
